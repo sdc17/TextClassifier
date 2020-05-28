@@ -1,0 +1,7 @@
+{
+    "class_num":8,
+    "weight":[0.125, 0.125, 0.125, 0.125, 0.125, 0.125, 0.125, 0.125],
+    "dataset_path":"dataset/",
+    "output_dir":"output/",
+    "checkpoint_dir":"checkpoints/"
+}

@@ -1,0 +1,24 @@
+[2020-05-23 19-42-17][INFO] ===> Preprocessing <===
+        Train Path:      ./data/sinanews.train
+        Test Path:       ./data/sinanews.test
+        Model Path:      ./data/sgns.sogounews.bigram-char
+        Output Path:     ./dataset
+        Dimension:       300
+    
+[2020-05-23 19-42-17][INFO] Loading Word2Vec model
+[2020-05-23 19-44-26][INFO] Loading Word2Vec model completed!
+[2020-05-23 19-44-26][INFO] Prepocessing training dataset
+[2020-05-23 19-44-26][INFO] Loading data
+[2020-05-23 19-44-32][INFO] Loading data completed! Size:2342
+[2020-05-23 19-44-32][INFO] Word to Vector-ing
+[2020-05-23 19-44-34][INFO] Word to Vector completed!
+[2020-05-23 19-44-34][INFO] Saving dataset
+[2020-05-23 19-44-55][INFO] Saving dataset completed!
+[2020-05-23 19-44-56][INFO] Prepocessing testing dataset
+[2020-05-23 19-44-56][INFO] Loading data
+[2020-05-23 19-45-01][INFO] Loading data completed! Size:2228
+[2020-05-23 19-45-01][INFO] Word to Vector-ing
+[2020-05-23 19-45-02][INFO] Word to Vector completed!
+[2020-05-23 19-45-02][INFO] Saving dataset
+[2020-05-23 19-45-23][INFO] Saving dataset completed!
+[2020-05-23 19-45-24][INFO] ===> Preprocessing Completed! <===
